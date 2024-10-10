@@ -1,4 +1,4 @@
-<!-- # Hi there, I'm [Annmys!](https://theajack.github.io) 👋  -->
+<!-- # Hi there, I'm [Annmys!](https://Annmys.github.io) 👋  -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there%2C+I'm+Tack+Chen%EF%BC%81;console.log(%22Hello+World!%22);Stay+Hungry,+Stay+Foolish.)](https://theajack.github.io)
 
