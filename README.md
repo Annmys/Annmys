@@ -36,27 +36,27 @@
 ----
 
 <a href="https://github.com/Annmys/cnchar">
-    <img height="150" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Annmys&repo=cnchar&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+    <img height="150" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Annmys&repo=cnchar&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
 </a>&nbsp;
 
 <a href="https://github.com/Annmys/github-readme-stats">
-    <img height="150" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Annmys&repo=disable-devtool&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+    <img height="150" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Annmys&repo=disable-devtool&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
 </a>
 
 <a href="https://github.com/Annmys/github-readme-stats">
-    <img height="150" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Annmys&repo=jsbox&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+    <img height="150" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Annmys&repo=jsbox&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
 </a>&nbsp;
 
 <a href="https://github.com/Annmys/github-readme-stats">
-    <img height="150" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Annmys&repo=dingdong-node&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+    <img height="150" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Annmys&repo=dingdong-node&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
 </a>
 
 <a href="https://github.com/Annmys/github-readme-stats">
-    <img height="150" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Annmys&repo=mp-mixin&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+    <img height="150" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Annmys&repo=mp-mixin&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
 </a>
 
 <a href="https://github.com/Annmys/github-readme-stats">
-    <img height="150" width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=Annmys&repo=type&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+    <img height="150" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=Annmys&repo=type&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sun0225SUN)](https://github.com/ryo-ma/github-profile-trophy)
